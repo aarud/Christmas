@@ -1,4 +1,4 @@
-The rands.py program is LINUX ONLY but the UI works on Windows, which is ok bc the logic is entirely different from the UI logic. Although, annoyingly, it opens a terminal in addition to the program.
+The UI works on Windows but rands.py is LINUX ONLY, which is ok bc the logic is entirely different from rands.py. Although, annoyingly, it opens a terminal in addition to the program.
 
 It's a game that makes the player calculate squares really fast; it resets if time
 runs out or a wrong answer is entered.
