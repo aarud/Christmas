@@ -1,4 +1,4 @@
-This program is LINUX ONLY (certainly the terminal-based rands.py, and the UI version as well, as far as I know. QTimer may work on Windows but I haven't tried). 
+The rands.py program is LINUX ONLY but the UI works on Windows, which is ok bc the logic is entirely different from the UI logic. Although, annoyingly, it opens a terminal in addition to the program.
 
 It's a game that makes the player calculate squares really fast; it resets if time
 runs out or a wrong answer is entered.
